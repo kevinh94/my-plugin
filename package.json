@@ -1,0 +1,20 @@
+{
+  "name": "myPlugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MyPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinh94/my-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinh94/my-plugin/issues"
+  },
+  "homepage": "https://github.com/kevinh94/my-plugin#readme"
+}
